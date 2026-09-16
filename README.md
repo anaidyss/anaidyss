@@ -3,8 +3,8 @@
 </p>
 
 ```text
-       _     __               
-  ____ _____  ____ _(_)___/ /_  ____________
+                           
+   ____ ____   ____ (_)___/ /_  ____________
  / __ `/ __ \/ __ `/ / __  / / / / ___/ ___/
 / /_/ / / / / /_/ / / /_/ / /_/ (__  |__  ) 
 \__,_/_/ /_/\__,_/_/\__,_/\__, /____/____/  
@@ -33,15 +33,15 @@ drwxr-xr-x  veil/
 
 ### [veil](https://github.com/anaidyss/veil) — first project
 
-локскрин для wayland (niri) на `ext-session-lock-v1`, написан с нуля на чистом python.
+lockscreen on wayland (niri) on `ext-session-lock-v1`, on python.
 
 ```text
 └─$ veil-lock --explain
 ```
 
-- python + pywayland, кадры через pillow (shm/memfd), пароль через PAM
-- сессию держит композитор — Ctrl+C и kill не помогут
-- на экране: ascii-арт, часы, cpu/ram, фейковый «аудит», палитра gruvbox
+- python + pywayland, frames via pillow (shm/memfd), pass via PAM
+- session is hold by compositor - ctrl+c or kill wont help
+- on screen: ascii-арт, clock, cpu/ram, fake audith, gruvbox
 
 ```text
 └─$ ./stack --list
