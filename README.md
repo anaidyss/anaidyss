@@ -1,16 +1,6 @@
-```text
-       _     __               
-  ____ _____  ____ _(_)___/ /_  ____________
- / __ `/ __ \/ __ `/ / __  / / / / ___/ ___/
-/ /_/ / / / / /_/ / / /_/ / /_/ (__  |__  ) 
-\__,_/_/ /_/\__,_/_/\__,_/\__, /____/____/  
-                         /____/             
-```
-
-andrey klein. russia. bauman lyceum + beihang university.
-
-i dig into the parts of linux that live under the desktop: wayland
-protocols, compositors, session plumbing. python, some c, too much bash.
+<p align="center">
+  <img src="./banner.svg" alt="anaidyss terminal banner" width="900" />
+</p>
 
 ## projects
 
