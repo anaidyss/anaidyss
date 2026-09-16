@@ -22,7 +22,7 @@ browser, games. `Ctrl+Alt+R` to record, `Ctrl+Alt+P` to play.
 
 ## setup
 
-niri + hyprland, fedora, jetbrains mono everywhere. dotfiles are private
-until i stop breaking them weekly.
+niri on fedora, jetbrains mono everywhere. every app themed to one
+forest palette: [dotfiles](https://github.com/anaidyss/dotfiles).
 
 email is in git log if you need me.
