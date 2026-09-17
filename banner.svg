@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="565" viewBox="0 0 900 565" font-family="JetBrains Mono, DejaVu Sans Mono, monospace">
-  <rect x="0.5" y="0.5" width="899" height="564" rx="12" fill="#131a16" stroke="#24322a"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="589" viewBox="0 0 900 589" font-family="JetBrains Mono, DejaVu Sans Mono, monospace">
+  <rect x="0.5" y="0.5" width="899" height="588" rx="12" fill="#131a16" stroke="#24322a"/>
   <circle cx="24" cy="22" r="6" fill="#c9745c"/>
   <circle cx="44" cy="22" r="6" fill="#d9b36a"/>
   <circle cx="64" cy="22" r="6" fill="#a6e3a1"/>
@@ -35,11 +35,13 @@
   <text x="44" y="427" font-size="14" fill="#cddbd0">ls ~/projects</text>
   <text x="24" y="453" font-size="14" fill="#6fd0b3" font-weight="bold">veil/</text>
   <text x="120" y="453" font-size="14" fill="#4f6157">lockscreen for niri, pure python</text>
-  <text x="24" y="477" font-size="14" fill="#6fd0b3" font-weight="bold">kb_macro/</text>
-  <text x="120" y="477" font-size="14" fill="#4f6157">keyboard macro recorder, one file</text>
-  <text x="24" y="501" font-size="14" fill="#6fd0b3" font-weight="bold">dotfiles/</text>
-  <text x="120" y="501" font-size="14" fill="#4f6157">forest-themed configs for everything</text>
+  <text x="24" y="477" font-size="14" fill="#6fd0b3" font-weight="bold">zh-notes/</text>
+  <text x="120" y="477" font-size="14" fill="#4f6157">chinese notes cli, obsidian + anki</text>
+  <text x="24" y="501" font-size="14" fill="#6fd0b3" font-weight="bold">kb_macro/</text>
+  <text x="120" y="501" font-size="14" fill="#4f6157">keyboard macro recorder, one file</text>
+  <text x="24" y="525" font-size="14" fill="#6fd0b3" font-weight="bold">dotfiles/</text>
+  <text x="120" y="525" font-size="14" fill="#4f6157">forest-themed configs for everything</text>
 
-  <text x="24" y="541" font-size="14" font-weight="bold" fill="#e3c078">❯</text>
-  <rect x="44" y="528" width="9" height="17" fill="#a6e3a1"/>
+  <text x="24" y="565" font-size="14" font-weight="bold" fill="#e3c078">❯</text>
+  <rect x="44" y="552" width="9" height="17" fill="#a6e3a1"/>
 </svg>
