@@ -1,13 +1,57 @@
 <p align="center">
-  <img src="./banner.svg" alt="anaidyss terminal banner" width="900" />
+  <img src="./banner.svg" alt="a hypr-shell desktop drawn in svg" width="900" />
 </p>
 
-## projects
+<h2 align="center"><a href="https://github.com/anaidyss/hypr-shell">hypr-shell</a></h2>
+
+<p align="center">
+  a whole desktop for hyprland, written in quickshell. one frame around the screen, every menu grows out of it,<br>
+  and the whole system (shell, terminal, GTK, Qt, browser, even the cursor) repaints itself from the wallpaper.
+</p>
+
+<p align="center">
+  <a href="https://github.com/anaidyss/hypr-shell">
+    <img src="https://raw.githubusercontent.com/anaidyss/hypr-shell/main/assets/hero.png" alt="hypr-shell" width="900" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>dashboard</b><br>
+      <sub>calendar, weather, media with synced lyrics, a 10-band pipewire eq you drag as one curve, live spectrum</sub>
+    </td>
+    <td valign="top" width="33%">
+      <b>drives</b><br>
+      <sub>ISO library that knows when a newer release is out, write and verify, ventoy, backups, catches fake-capacity sticks</sub>
+    </td>
+    <td valign="top" width="33%">
+      <b>everything else</b><br>
+      <sub>lock screen on PAM, screenshot editor, launcher + calculator + clipboard + notes, control center, night light</sub>
+    </td>
+  </tr>
+</table>
+
+## tools
 
 <table>
   <tr>
     <th align="left" width="50%">project</th>
     <th align="center" width="50%">demo</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/anaidyss/cursor-tint">cursor-tint</a></b><br>
+      <sub>python · pillow · xcursor</sub><br><br>
+      the bibata cursor in any color, rebuilt in a second. hook it to
+      matugen and the cursor follows the wallpaper accent like everything
+      else. writes the xcursor files itself, no node toolchain.
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/anaidyss/cursor-tint">
+        <img src="https://raw.githubusercontent.com/anaidyss/cursor-tint/main/assets/preview.png" alt="cursor-tint preview" width="300" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td valign="top">
@@ -55,24 +99,18 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <b><a href="https://github.com/anaidyss/dotfiles">dotfiles</a></b><br>
-      <sub>niri · waybar · kitty · fish · nvim</sub><br><br>
-      fedora + niri, every app themed to one forest palette: kitty, fish +
-      starship, waybar, fuzzel, nvim, btop, yazi. lid-sleep, wallpaper
-      switcher and screenshot scripts included.
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/anaidyss/dotfiles">
-        <img src="https://raw.githubusercontent.com/anaidyss/dotfiles/main/assets/demo.gif" alt="dotfiles demo" width="400" />
-      </a>
+    <td valign="top" colspan="2">
+      <b><a href="https://github.com/anaidyss/honor-touchpad-gestures">honor-touchpad-gestures</a></b>
+      <sub>· python · hid</sub><br>
+      linux touchpad gestures for the honor magicbook art 14: volume and brightness on the edges through the
+      firmware's own HID reports, two-finger double click.
     </td>
   </tr>
 </table>
 
 ## setup
 
-niri on fedora, jetbrains mono everywhere. every app themed to one
-forest palette: [dotfiles](https://github.com/anaidyss/dotfiles).
+arch linux + hyprland + [hypr-shell](https://github.com/anaidyss/hypr-shell) on an honor magicbook with an OLED.
+before that: fedora + niri, one forest palette everywhere ([dotfiles](https://github.com/anaidyss/dotfiles), archived).
 
 email is in git log if you need me.
