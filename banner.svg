@@ -38,7 +38,7 @@
       <text x="124" y="256" fill="#f3bc7e" font-weight="bold">❯ <tspan fill="#ece0d6" font-weight="normal">fastfetch</tspan></text>
       <text x="124" y="282" fill="#9c8f84">os   <tspan fill="#ece0d6">arch linux</tspan></text>
       <text x="124" y="304" fill="#9c8f84">wm   <tspan fill="#ece0d6">hyprland 0.57</tspan></text>
-      <text x="124" y="326" fill="#9c8f84">ui   <tspan fill="#ece0d6">hypr-shell <tspan fill="#9c8f84">(quickshell, qml)</tspan></tspan></text>
+      <text x="124" y="326" fill="#9c8f84">ui   <tspan fill="#ece0d6">pantheon shell <tspan fill="#9c8f84">(quickshell, qml)</tspan></tspan></text>
       <text x="124" y="348" fill="#9c8f84">code <tspan fill="#ece0d6">python · qml · lua · bash</tspan></text>
       <text x="124" y="370" fill="#9c8f84">from <tspan fill="#ece0d6">russia <tspan fill="#9c8f84">→</tspan> hangzhou</tspan></text>
       <g transform="translate(124 392)">
@@ -78,7 +78,7 @@
     H866 A22 22 0 0 1 888 34 V466 A22 22 0 0 1 866 488 H78 A22 22 0 0 1 56 466 V34 A22 22 0 0 1 78 12 Z"/>
 
   <!-- dashboard branch content -->
-  <text x="450" y="46" font-size="21" fill="#ece0d6" font-weight="bold" text-anchor="middle">hypr-shell</text>
+  <text x="450" y="46" font-size="21" fill="#ece0d6" font-weight="bold" text-anchor="middle">pantheon shell</text>
   <g font-size="12" text-anchor="middle">
     <text x="364" y="84" fill="#ece0d6">dashboard</text>
     <text x="436" y="84" fill="#9c8f84">media</text>

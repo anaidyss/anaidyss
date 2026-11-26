@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./banner.svg" alt="a hypr-shell desktop drawn in svg" width="900" />
+  <img src="./banner.svg" alt="a pantheon shell desktop drawn in svg" width="900" />
 </p>
 
-<h2 align="center"><a href="https://github.com/anaidyss/hypr-shell">hypr-shell</a></h2>
+<h2 align="center"><a href="https://github.com/anaidyss/pantheon">pantheon shell</a></h2>
 
 <p align="center">
   a whole desktop for hyprland, written in quickshell. one frame around the screen, every menu grows out of it,<br>
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anaidyss/hypr-shell">
-    <img src="https://raw.githubusercontent.com/anaidyss/hypr-shell/main/assets/hero.png" alt="hypr-shell" width="900" />
+  <a href="https://github.com/anaidyss/pantheon">
+    <img src="https://raw.githubusercontent.com/anaidyss/pantheon/main/assets/hero.webp" alt="pantheon shell" width="900" />
   </a>
 </p>
 
@@ -110,7 +110,7 @@
 
 ## setup
 
-arch linux + hyprland + [hypr-shell](https://github.com/anaidyss/hypr-shell) on an honor magicbook with an OLED.
+arch linux + hyprland + [pantheon shell](https://github.com/anaidyss/pantheon) on an honor magicbook with an OLED.
 before that: fedora + niri, one forest palette everywhere ([dotfiles](https://github.com/anaidyss/dotfiles), archived).
 
 email is in git log if you need me.
